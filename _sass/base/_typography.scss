@@ -32,7 +32,7 @@
 			'color #{_duration(transition)} ease-in-out',
 			'border-bottom-color #{_duration(transition)} ease-in-out'
 		));
-		border-bottom: dotted 1px;
+		<!-- border-bottom: dotted 1px; -->
 		color:  _palette(accent6); ///inherit;
 		text-decoration: none;
 
