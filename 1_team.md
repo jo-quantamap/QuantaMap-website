@@ -11,7 +11,7 @@ nav-menu: true
 |![Johannes Jobst (CEO)](/assets/images/Johannes-Jobst.jpg){: width="150" }| ![Kaveh Lahabi](/assets/images/Kaveh-Lahabi.jpg){: width="150" }| ![Milan P Allan](/assets/images/Milan-Allan.jpg){: width="150" }| ![Jimi de Haan](/assets/images/Jimi-de-Haan.jpg){: width="150" }|
 |:-:|:-:|:-:|:-:|
 |**Johannes Jobst**<br>Founder, CEO| **Kaveh Lahabi**<br>Founder | **Milan P Allan**<br>Founder | **Jimi de Haan**<br>Founder, Engineer|
-|![Luigi Mastrodomenico](/assets/images/Luigi-Mastrodomenico.jpg){: width="150" }| ![Daan Boltje](/assets/images/Daan-Boltje.jpg){: width="150" }| ![Dalal Benali](/assets/images/Dalal-Benali.jpg){: width="150" }| ![Julius van Valkengoed](/assets/images/Julius-van-Valkengoed.jpg){: width="150" }|
+|![Luigi Mastrodomenico](/assets/images/Luigi-Mastrodomenico.jpg){: width="150" }| ![Daan Boltje](/assets/images/Daan-Boltje.jpg){: width="150" }| ![Dalal Benali](/assets/images/Dalal-Benali.jpg){: width="150" }| ![Julius van Valkengoed](/assets/images/QM2.jpg){: width="150" }|
 |:-:|:-:|:-:|:-:|
 |**Luigi Mastrodomenico**<br>Microscope Designer| **Daan Boltje**<br>System Architect | **Dalal Benali**<br>Nanofab engineer | **Julius van Valkengoed**<br>Intern|
 
