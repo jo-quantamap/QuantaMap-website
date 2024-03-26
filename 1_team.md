@@ -12,6 +12,11 @@ nav-menu: true
 |:-:|:-:|:-:|:-:|
 |**Johannes Jobst**<br>Founder, CEO| **Kaveh Lahabi**<br>Founder | **Milan P Allan**<br>Founder | **Jimi de Haan**<br>Founder, Design Engineer|
 
+<figure class="fourth">
+  	<a href="https://www.quantware.com/" target="_blank" rel="noopener noreferrer">
+		<img src="{{ site.url }}{{ site.baseurl }}/assets/images/QW2.png" style="height: 100px">
+	</a>
+ </figure>
 
 We are a team of four founders and two interns, and we are motivated to solve hard problems that do not have solutions yet. We believe that our technology will have a major impact on the quantum industry, and will also have applications in different fields in science and emerging technology. We are committed to diversity and work to build an inclusive environment where everyone can thrive.
 
