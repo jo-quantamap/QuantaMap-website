@@ -1,12 +1,13 @@
 ---
 layout: page
 title: News
-description: Highlights of our QuantaMap journey
+description: 
 image: 
 nav-menu: true
 ---
 
-# Highlights
+# Highlights of our QuantaMap journey
+For more regular updates, follow our [LinkedIn page](https://www.linkedin.com/company/quantamap/)
 
 <ul>
   {% for post in site.posts %}
@@ -17,7 +18,7 @@ nav-menu: true
 </ul>
 
 # Milestones
-- *March 2024:* our team has grown to 5 full-time engineers and 2 interns
+- *March 2024:* Our team has grown to 5 full-time engineers and 2 interns
 - *February2024:* We move to our new offices at BioPartner
 - *December 2023:* We receive the [Take Off 2 loan](https://www.nwo.nl/nieuws/42-nieuwe-take-off-projecten-kunnen-van-start)
 - *November 2023:* We receive the MIT R&D grant with [Orange Quantum Systems](https://orangeqs.com)
