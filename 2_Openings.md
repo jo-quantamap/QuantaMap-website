@@ -9,9 +9,11 @@ nav-menu: true
 
 # Open positions
 
-We currently have one concrete opening:
+We currently have two concrete openings:
 
-* an [Intern]({% link opening_internship.md %}) to investigate a novel imaging method and to assess its commercial viability.
+* a key technical team member with experience in cryogenic AFM and/or nanofabrication of quantum chips. Please get in touch for details.
+* an intern with to support the mechanical design of our AFM with experience in mechanical engineering, precision engineering (university or HBO).
+* an intern with a background in electrical engineering to develp cryogenic electronics for our AFM (university or HBO)
 
 Additionally, we are happy to host interns and BSc/MSc stundents on a number of technical and non-technical topics. Just get in touch.
 
