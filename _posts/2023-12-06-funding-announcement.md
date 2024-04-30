@@ -1,7 +1,7 @@
 ---
 layout: post
-title: QuantaMap secures €1.4 million in funding to solve a major roadblock in the quantum revolution 
-description: QuantaMap secures €1.4 million in funding to solve a major roadblock in the quantum revolution 
+title: QuantaMap
+description: n 
 image: assets/images/2024-04-30_MIT-DeteQT_kick-off.jpg
 ---
 
