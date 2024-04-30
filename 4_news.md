@@ -8,7 +8,13 @@ nav-menu: true
 
 # Highlights
 
-
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 # Milestones
 - *March 2024:* our team has grown to 5 full-time engineers and 2 interns
