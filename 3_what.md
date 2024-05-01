@@ -2,7 +2,7 @@
 layout: page
 title: What we do
 description: Get to know our tech
-image: \\ assets/images/pic11.jpg
+image: \\ assets/images/unused/pic11.jpg
 nav-menu: true
 ---
 
