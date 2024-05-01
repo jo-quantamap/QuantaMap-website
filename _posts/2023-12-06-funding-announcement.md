@@ -31,3 +31,14 @@ QuantaMap is now hiring, and is actively seeking new development partners and la
 
 “By employing a unique combination of cryogenic scanning-probe microscopy and custom quantum sensors, QuantaMap is addressing a crucial challenge in the industry: the difficulty of producing reliable quantum chips,” says Ton van 't Noordende, managing director of QDNL Participations. 
  “We’re excited to support the QuantaMap team on their journey to provide chip diagnostics using quantum sensors.”
+
+ ### Selected press coverage
+-	[Tech.eu](https://tech.eu/2023/12/06/quantamap-secures-eur14m-funding-to-enhance-quantum-chip-production/)
+-	[Tech Funding News](https://techfundingnews.com/quantamap-snaps-e1-4m-funding-to-tackle-a-crucial-hurdle-in-quantum-revolution/)
+-	[InnovationOrigins](https://innovationorigins.com/en/quantamap-raises-e1-4-million-to-overcome-hurdle-in-quantum/) 
+-	[The Next Web](https://thenextweb.com/news/quantum-first-microscope-solve-chip-inspection)
+-	[Silicon Canals](https://siliconcanals.com/crowdfunding/quantamap-raises-1-4m/)
+-   [Engineering net](https://engineeringnet.be/nl/nieuws/item/22283/nieuwe-spin-off-om-cruciale-hindernis-in-quantumrevolutie-te-overwinnen) 
+-	[StartupRise](https://startuprise.co.uk/quantum-startup-quantamap-raises-e1-4-mn-funding/)  
+-	
+

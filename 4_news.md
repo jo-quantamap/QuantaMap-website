@@ -7,7 +7,7 @@ nav-menu: true
 ---
 
 # Highlights of our QuantaMap journey
-For more regular updates, follow our [LinkedIn page](https://www.linkedin.com/company/quantamap/)
+For regular updates, follow our [LinkedIn page](https://www.linkedin.com/company/quantamap/)
 
 <ul>
   {% for post in site.posts %}
