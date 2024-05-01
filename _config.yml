@@ -7,10 +7,10 @@ baseurl:
 #baseurl: "http://jo-quantamap.github.io/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Johannes Jobst
-street_address: Nieuwe Mare 25
+street_address: Robert Boyleweg 4
 city: Leiden
 state: ZH
-zip_code: 2312NL
+zip_code: 2333CG
 country: The Netherlands
 phone: +31649588920
 
