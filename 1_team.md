@@ -8,7 +8,7 @@ nav-menu: true
 
 # Meet the QuantaMap team
 
-|![Johannes Jobst (CEO)](/assets/images/team/Johannes-Jobst.jpg){: width="150" }| ![Kaveh Lahabi](/assets/images/team/Kaveh-Lahabi.jpg){: width="150" }| ![Milan P Allan](/assets/images/team/Milan-Allan.jpg){: width="150" }| ![Jimi de Haan](/assets/images/Jimi-de-Haan.jpg){: width="150" }|
+|![Johannes Jobst (CEO)](/assets/images/team/Johannes-Jobst.jpg){: width="150" }| ![Kaveh Lahabi](/assets/images/team/Kaveh-Lahabi.jpg){: width="150" }| ![Milan P Allan](/assets/images/team/Milan-Allan.jpg){: width="150" }| ![Jimi de Haan](/assets/images/team/Jimi-de-Haan.jpg){: width="150" }|
 |:-:|:-:|:-:|:-:|
 |**Johannes Jobst**<br>Founder, CEO| **Kaveh Lahabi**<br>Founder | **Milan P Allan**<br>Founder | **Jimi de Haan**<br>Founder, Engineer|
 |![Luigi Mastrodomenico](/assets/images/team/Luigi-Mastrodomenico.jpg){: width="150" }| ![Daan Boltje](/assets/images/team/Daan-Boltje.jpg){: width="150" }| ![Dalal Benali](/assets/images/team/Dalal-Benali.jpg){: width="150" }| ![Julius van Valkengoed](/assets/images/team/Julius-van-Valkengoed.jpg){: width="150" }|
