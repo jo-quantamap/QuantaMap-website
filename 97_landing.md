@@ -2,7 +2,7 @@
 title: Landing
 layout: landing
 description: 'This is the landing page'
-image: assets/images/unused/pic07.jpg
+image: assets/images/unused/unused/pic07.jpg
 nav-menu: false
 ---
 
