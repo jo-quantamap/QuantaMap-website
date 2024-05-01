@@ -19,6 +19,6 @@ Route to us via [Google Maps](https://www.google.com/maps/place/QuantaMap/@52.16
 ## Reach out to our CEO
 Johannes Jobst\
 Email: [johannes@quantamap.eu](mailto:johannes@quantamap.eu)\
-Office: +31 71 207 3291
+Office: +31 71 207 3291\
 Mobile: +31 649 5889 20
 
