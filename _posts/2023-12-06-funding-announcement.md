@@ -2,7 +2,7 @@
 layout: post
 title: QuantaMap secures €1.4 million in funding to solve a major roadblock in the quantum revolution
 description: QuantaMap secures €1.4 million in funding to solve a major roadblock in the quantum revolution 
-image: assets/images/2023-12-06_QuantaMap-funding-announcement.jpg
+image: assets/images/news/2023-12-06_QuantaMap-funding-announcement.jpg
 ---
 
 Quantum computing has the potential to solve problems that are impossible to address with current technologies, in fields as diverse as material research, drug discovery, logistics, and beyond. 
